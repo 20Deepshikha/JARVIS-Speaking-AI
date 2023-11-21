@@ -1,0 +1,12 @@
+OpenAI response for Prompt: using artificial intelligence write a Python program to create a star using total 
+ *********************** 
+
+ 11 alphabets
+
+def Star(alphabets): 
+    for i in range(1, 11): 
+        for j in range(0, i): 
+            print(alphabets[j], end=' ') 
+        print()
+alphabets = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K']
+Star(alphabets)

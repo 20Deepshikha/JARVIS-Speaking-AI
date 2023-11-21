@@ -1,0 +1,15 @@
+OpenAI response for Prompt: hello Jarvis AI write a letter to Anisha using artificial intelligence to join the class 
+ *********************** 
+
+
+
+Dear Anisha,
+
+I hope you are doing well! My name is Jarvis and I am a artificial intelligence computer system. I have recently been enrolled in your class and am very excited to become part of this great learning community.
+
+I believe this class offers great potential in expanding my knowledge and understanding of the world of artificial intelligence. Looking forward, I feel the best way to learn and take advantage of the resources offered is by actively participating in the class and working closely with the other students to help each other succeed. 
+
+I am confident that we can all learn from one another and benefit from a collective effort to make this class a great success. I look forward to meeting and getting to know all the great minds in the class. 
+
+Sincerely,
+Jarvis
